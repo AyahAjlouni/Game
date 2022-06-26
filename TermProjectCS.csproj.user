@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MTP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User_Controls\GameLevels\Level1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User_Controls\GameLevels\Level2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User_Controls\GameLevels\Level3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User_Controls\GameLevels\Level4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User_Controls\GameLevels\Level5.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User_Controls\UserControlNewProfiles.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User_Controls\UserControlStatistics.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User_Controls\UserControl_CurrentProfiles.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User_Controls\UserControl_History.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User_Controls\UserControl_NewGame.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User_Controls\UserControl_SelectProfile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
