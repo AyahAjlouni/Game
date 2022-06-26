@@ -1,0 +1,56 @@
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\bin\Debug\netcoreapp3.1\TermProjectCS.exe
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\bin\Debug\netcoreapp3.1\TermProjectCS.deps.json
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\bin\Debug\netcoreapp3.1\TermProjectCS.runtimeconfig.json
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\bin\Debug\netcoreapp3.1\TermProjectCS.runtimeconfig.dev.json
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\bin\Debug\netcoreapp3.1\TermProjectCS.dll
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\bin\Debug\netcoreapp3.1\TermProjectCS.pdb
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.csprojAssemblyReference.cache
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.Form1.resources
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.Properties.Resources.resources
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.csproj.GenerateResource.cache
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.AssemblyInfoInputs.cache
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.AssemblyInfo.cs
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.csproj.CoreCompileInputs.cache
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.dll
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.pdb
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.genruntimeconfig.cache
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.User_Controls.UserControl_SelectProfile.resources
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.User_Controls.GameLevels.Level1.resources
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.User_Controls.GameLevels.Level2.resources
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.User_Controls.GameLevels.Level3.resources
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.User_Controls.GameLevels.Level4.resources
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.User_Controls.GameLevels.Level5.resources
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.User_Controls.UserControlNewProfiles.resources
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.User_Controls.UserControlStatistics.resources
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.User_Controls.UserControl_CurrentProfiles.resources
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.User_Controls.UserControl_History.resources
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.User_Controls.UserControl_NewGame.resources
+C:\Users\GTS\source\repos\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.MTP.resources
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\bin\Debug\netcoreapp3.1\TermProjectCS.exe
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\bin\Debug\netcoreapp3.1\TermProjectCS.deps.json
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\bin\Debug\netcoreapp3.1\TermProjectCS.runtimeconfig.json
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\bin\Debug\netcoreapp3.1\TermProjectCS.runtimeconfig.dev.json
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\bin\Debug\netcoreapp3.1\TermProjectCS.dll
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\bin\Debug\netcoreapp3.1\TermProjectCS.pdb
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.csprojAssemblyReference.cache
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.Form1.resources
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.MTP.resources
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.Properties.Resources.resources
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.User_Controls.GameLevels.Level1.resources
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.User_Controls.GameLevels.Level2.resources
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.User_Controls.GameLevels.Level3.resources
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.User_Controls.GameLevels.Level4.resources
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.User_Controls.GameLevels.Level5.resources
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.User_Controls.UserControlNewProfiles.resources
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.User_Controls.UserControlStatistics.resources
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.User_Controls.UserControl_CurrentProfiles.resources
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.User_Controls.UserControl_History.resources
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.User_Controls.UserControl_NewGame.resources
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.User_Controls.UserControl_SelectProfile.resources
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.csproj.GenerateResource.cache
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.AssemblyInfo.cs
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.dll
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.pdb
+C:\Users\user\Desktop\university class\My Game\TermProjectCS\TermProjectCS\obj\Debug\netcoreapp3.1\TermProjectCS.genruntimeconfig.cache
